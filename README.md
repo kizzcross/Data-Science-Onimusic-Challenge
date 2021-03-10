@@ -1,6 +1,6 @@
 # Data Science Challenge (Onimusic)
 - Participant: Joao Victor Ferreira
-- **IMPORTANT:** For technical explanation about the project code and access routes, please [CLICK HERE](https://github.com/kizzcross/OniDevs-Challenge/blob/master/TECHNICAL.md) for access the technical markdown.
+- **IMPORTANT:** For technical explanation about the project code and access routes, please [CLICK HERE](https://github.com/kizzcross/Data-Science-Onimusic-Challenge/blob/master/TECHNICAL.md) for access the technical markdown. The xlsx file is for demonstration, and can be generated again.
 
 ## Requirements for build/execute:
 - [Python](https://www.python.org/) (Lastest Version)
