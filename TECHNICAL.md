@@ -16,5 +16,5 @@ Thank to all contribuitors:
 </table>
 
 ## Images
-<img src="https://github.com/kizzcross/Data-Science-Onimusic-Challenge/blob/master/assets/1.png?raw=true"  />
-<img src="https://github.com/kizzcross/Data-Science-Onimusic-Challenge/blob/master/assets/2.png?raw=true"  />
+<img src="https://github.com/kizzcross/Data-Science-Onimusic-Challenge/blob/master/Assets/1.png?raw=true"  />
+<img src="https://github.com/kizzcross/Data-Science-Onimusic-Challenge/blob/master/Assets/2.png?raw=true"  />
